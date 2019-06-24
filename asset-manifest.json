@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rweems/static/css/main.97783815.chunk.css",
+    "main.css": "/rweems/static/css/main.993a38db.chunk.css",
     "main.js": "/rweems/static/js/main.80ac19bc.chunk.js",
     "main.js.map": "/rweems/static/js/main.80ac19bc.chunk.js.map",
     "runtime~main.js": "/rweems/static/js/runtime~main.ecf0c927.js",
@@ -8,9 +8,9 @@
     "static/js/2.6efc73d3.chunk.js": "/rweems/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/rweems/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/rweems/index.html",
-    "precache-manifest.0e4085c61b4b9b129b77698c58be8b3d.js": "/rweems/precache-manifest.0e4085c61b4b9b129b77698c58be8b3d.js",
+    "precache-manifest.8d04c3e00a4a1d3bd5aa57b891696773.js": "/rweems/precache-manifest.8d04c3e00a4a1d3bd5aa57b891696773.js",
     "service-worker.js": "/rweems/service-worker.js",
-    "static/css/main.97783815.chunk.css.map": "/rweems/static/css/main.97783815.chunk.css.map",
+    "static/css/main.993a38db.chunk.css.map": "/rweems/static/css/main.993a38db.chunk.css.map",
     "static/media/logo.svg": "/rweems/static/media/logo.5d5d9eef.svg",
     "static/media/me.jpg": "/rweems/static/media/me.313b0f12.jpg"
   }

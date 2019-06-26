@@ -99,6 +99,14 @@ div img {
   margin-left: 500px;
 
 }
+.question {
+  font-weight: bold;
+}
+
+.answer {
+  font-style:italic;
+  margin-top:0;
+}
 
 .spacing{
   margin-top:0;

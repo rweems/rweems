@@ -15,14 +15,14 @@ function App() {
         <nav>
           <img src={image} />
           <Link to="/">Home</Link>
-          <Link to="/about">About</Link>
-          <Link to="/projects">Projects</Link>
-          <Link to="/contacts">Contacts</Link>
+          <Link to="/rweems/about">About</Link>
+          <Link to="/rweems/projects">Projects</Link>
+          <Link to="/rweems/contacts">Contacts</Link>
         </nav>
 
         <Switch>
           <Route exact path='/' component={Home} />
-          <Route path='/projects' component={Projects} />
+          <Route path='/rweems/projects' component={Projects} />
         </Switch>
       </div>
     </Router>

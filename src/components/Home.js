@@ -11,7 +11,7 @@ class Home extends Component {
                     <br />
                     <br />
                 </p>
-                <Link to='/projects'>
+                <Link to='/rweems/projects'>
                     <button onclick="location.href='/projects'">
                         View my Projects
                     </button>

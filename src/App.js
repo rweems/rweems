@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div className="App">
         <nav>
-          <img src={image} />
+          <img src={image} className="profile"/>
           <Link to="/">Home</Link>
           <Link to="/rweems/about">About</Link>
           <Link to="/rweems/projects">Projects</Link>

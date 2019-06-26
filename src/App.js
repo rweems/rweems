@@ -4,6 +4,7 @@ import './App.css';
 import Sidebar from './components/SideNav'
 import Home from './components/Home';
 import Projects from './components/Projects'
+import About from './components/About'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 import image from "./images/me.jpg"
 
@@ -17,12 +18,13 @@ function App() {
           <Link to="/">Home</Link>
           <Link to="/rweems/about">About</Link>
           <Link to="/rweems/projects">Projects</Link>
-          <Link to="/rweems/contacts">Contacts</Link>
         </nav>
 
         <Switch>
           <Route exact path='/' component={Home} />
+          <Route path='/rweems/about' component={About} />
           <Route path='/rweems/projects' component={Projects} />
+
         </Switch>
       </div>
     </Router>

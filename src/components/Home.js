@@ -7,7 +7,12 @@ class Home extends Component {
         return (
             <div>
                 <p>
-                    Hello, I'm Rickey Weems a Software Engineer with a B.A. in Computer Science.
+                    <strong>
+                        Hello, I'm Rickey Weems a Software Engineer with a B.A. in Computer Science. Below I have a link to my projects, linkedin, and github.
+                        <br />
+
+                        Enjoy my portfolio.
+                    </strong>
                     <br />
                     <br />
                 </p>
@@ -16,6 +21,11 @@ class Home extends Component {
                         View my Projects
                     </button>
                 </Link>
+                <br />
+                <a href="https://github.com/rweems">Github</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.linkedin.com/in/rickeyweems/">Linkedin</a>
+
             </div>
         );
     }

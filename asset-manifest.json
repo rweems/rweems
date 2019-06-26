@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rweems/static/css/main.3f971750.chunk.css",
-    "main.js": "/rweems/static/js/main.a95ceb10.chunk.js",
-    "main.js.map": "/rweems/static/js/main.a95ceb10.chunk.js.map",
-    "runtime~main.js": "/rweems/static/js/runtime~main.ecf0c927.js",
-    "runtime~main.js.map": "/rweems/static/js/runtime~main.ecf0c927.js.map",
-    "static/js/2.a2b52a76.chunk.js": "/rweems/static/js/2.a2b52a76.chunk.js",
-    "static/js/2.a2b52a76.chunk.js.map": "/rweems/static/js/2.a2b52a76.chunk.js.map",
-    "index.html": "/rweems/index.html",
-    "precache-manifest.43732777c2c9f0a6922d8e8635ec04e1.js": "/rweems/precache-manifest.43732777c2c9f0a6922d8e8635ec04e1.js",
-    "service-worker.js": "/rweems/service-worker.js",
-    "static/css/main.3f971750.chunk.css.map": "/rweems/static/css/main.3f971750.chunk.css.map",
-    "static/media/Movie-Storm.png": "/rweems/static/media/Movie-Storm.7070a6fb.png",
-    "static/media/concert.png": "/rweems/static/media/concert.b80f122d.png",
-    "static/media/create.png": "/rweems/static/media/create.56fe0128.png",
-    "static/media/logo.svg": "/rweems/static/media/logo.5d5d9eef.svg",
-    "static/media/me.jpg": "/rweems/static/media/me.313b0f12.jpg"
+    "main.css": "/static/css/main.3f971750.chunk.css",
+    "main.js": "/static/js/main.83bc90a9.chunk.js",
+    "main.js.map": "/static/js/main.83bc90a9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.a2b52a76.chunk.js": "/static/js/2.a2b52a76.chunk.js",
+    "static/js/2.a2b52a76.chunk.js.map": "/static/js/2.a2b52a76.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5c54dd3c80d8178717decdfcae41b521.js": "/precache-manifest.5c54dd3c80d8178717decdfcae41b521.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3f971750.chunk.css.map": "/static/css/main.3f971750.chunk.css.map",
+    "static/media/Movie-Storm.png": "/static/media/Movie-Storm.7070a6fb.png",
+    "static/media/concert.png": "/static/media/concert.b80f122d.png",
+    "static/media/create.png": "/static/media/create.56fe0128.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/me.jpg": "/static/media/me.313b0f12.jpg"
   }
 }

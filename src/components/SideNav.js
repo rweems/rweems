@@ -4,13 +4,14 @@ class side extends Component {
     state = {  }
     render() { 
         return ( 
-            <nav>
+            <div>
                 <img src={image} />
                 <a href="/">Home</a>
                 <a href="/about">About</a>
                 <a href="/projects">Projects</a>
                 <a href="/contacts">Contacts</a>
-            </nav>
+            </div>
+            
          );
     }
 }

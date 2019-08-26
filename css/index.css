@@ -9,13 +9,13 @@ body{
 }
 
 img {
-    display: inline;
-    /*position: absolute;*/
-    /*top: 50%;
-    left: 10%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    /*left: 10%;
     margin-top: -250px; */
     margin-left: 30px; 
-    vertical-align: middle;
+    
 }
 
 a, h2{

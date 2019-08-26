@@ -9,10 +9,9 @@ body{
 }
 
 img {
-    top: 50%;
+    padding-top: 100px;
     /*left: 10%;*/
     margin-left: 50px; 
-    vertical-align: middle;
     
 }
 

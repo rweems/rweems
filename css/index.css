@@ -14,3 +14,13 @@ img {
 a, h2{
     color: white;
 }
+
+.left{
+    float: left;
+    width: 40%;
+}
+
+.right {
+    float: right;
+    width: 40%;
+}

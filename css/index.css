@@ -7,3 +7,7 @@ img {
     display: block;
     justify-content: center;
 }
+
+a, h2 {
+    color: white;
+}
